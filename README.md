@@ -48,11 +48,7 @@ The goal was to explore real-world business questions like:
 - Leverage loyalty for **upselling** and increasing basket size.
 
 ## 📈 Dashboard Preview
-![Dashboard Preview](UberEats.jpg)
-![Dashboard Preview](C&B.jpg)
-![Dashboard Preview](P&D.jpg)
-![Dashboard Preview](O&O.jpg)
-![Dashboard Preview](KPI.jpg)
+
 
 
 ## 🔗 Download Files
