@@ -50,8 +50,9 @@ The goal was to explore real-world business questions like:
 ## 📈 Dashboard Preview
 ![Dashboard Preview](UberEats.jpg)
 ![Dashboard Preview](C&B.jpg)
+![Dashboard Preview](P&D.jpg)
 ![Dashboard Preview](O&O.jpg)
-![Dashboard Preview](Kpi.jpg)
+![Dashboard Preview](KPI.jpg)
 
 
 ## 🔗 Download Files
